@@ -1,4 +1,6 @@
- #a ``=input("enter num")
+# types of input
+
+#a=input("enter num")
  # print(a)
 
  # name=input("enter name: ")
