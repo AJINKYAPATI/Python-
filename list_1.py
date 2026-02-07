@@ -1,6 +1,5 @@
 s="InDia123"
 u=l=d=0
-
 for i in s:
     if i.isupper():
         u+=1
