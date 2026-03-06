@@ -1,8 +1,13 @@
 fullname=input("Enter your full name\n ")
+
 favsub=input("Enter your favorite subject\n")
+
 age=input("Enter your age\n ")   
+
 email=input("Enter your email address\n ")   
+
 mobile=input("Enter your mobile number\n")  
+
 print("Full Name: ",fullname)
 print("Favorite Subject: ",favsub)
 print("Age: ",age)
