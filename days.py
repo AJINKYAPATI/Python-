@@ -1,6 +1,5 @@
 print('choose day from 1 to 7:')
 day=int(input("enter day:"))
-
 if day==1:
     print("monday")
 elif day==2:
