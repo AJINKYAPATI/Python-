@@ -1,0 +1,7 @@
+# Write a program to swap two variables.
+a=26
+b=33
+a,b = b,a
+print(a)
+print(b)
+
