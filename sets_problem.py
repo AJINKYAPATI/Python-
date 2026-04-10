@@ -11,3 +11,9 @@ a = [1,5,6,8,2]
 b = [4,5,6,7]
 c = [1,9,6,2,5]
 print("The common elements in the three lists are: ", set(a) & set(b) & set(c))
+
+# Write a program to find difference between two sets.
+a = {1,5,6,8,2}
+b = {1,9,6,2,5}
+
+print (b.difference(a))
