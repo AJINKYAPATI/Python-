@@ -1,4 +1,5 @@
-# Write a program to swap two variables.
+# Write a program to swap two variables
+
 a=26
 b=33
 a,b = b,a
