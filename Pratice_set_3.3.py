@@ -1,5 +1,6 @@
 # Write a program to find sum of first 10 odd numbers
 # using while loop.
+
 sum=0
 n=0
 while n <=20:
