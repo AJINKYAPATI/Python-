@@ -1,4 +1,5 @@
 # Write a program to check if a number is prime or not.
+
 n = int(input("enter a number here: "))
 if n > 1:
     for i in range(2, n):
