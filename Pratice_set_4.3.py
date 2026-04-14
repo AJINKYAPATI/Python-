@@ -1,4 +1,5 @@
 # Write a program to find a palindrome of integers.
+
 n = int(input("enter a number here: ")) 
 temp = n
 rev = 0
