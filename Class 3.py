@@ -4,6 +4,8 @@ class student:
         self.age=age
         self.city=city
 
+
+
 s1=student("rahul",23,"pune")
 s2=student("ajinkya",24,"mumbai")
 print(s1.name,s1.age,s1.city)
