@@ -1,5 +1,4 @@
 #loop
-
 def fact(n):
     power=1
     for i in range(1,n+1):
@@ -8,7 +7,6 @@ def fact(n):
 print(fact(5))
 
 #Recursion
-
 def fact1(n):
     if n==1 or n==0:
         return 1
