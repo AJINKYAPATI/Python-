@@ -1,5 +1,6 @@
 # #Write a program to check if a number is a single digit number,
 #2-digit number and so on ... up to 5 digits.
+
 num = int(input("enter a number here: "))
 if num >=0 and num<=9:
     print("number is single digit number")
