@@ -1,7 +1,7 @@
-
 import json
 
 # # Convert the following dictionary into JSON format.
+
 import json
 Student_data = {"name": "David", "age":13, "marks":87}
 print (type(Student_data))
@@ -12,6 +12,7 @@ print (type(json_data))
 
 
 # # # Access the value of age from the given data.
+
 import json
 
 
