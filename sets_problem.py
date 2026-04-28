@@ -1,5 +1,4 @@
 # Write a program to find max and min in a set.I
-
 a= {12, 34, 56, 78, 90, 1, 57}
 maximum = max(a)
 minimum = min(a)
