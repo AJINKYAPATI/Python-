@@ -1,10 +1,8 @@
 n=4
 i=n
-
 while i>=1:
     j=1
-   
-    while j<=i:
+     while j<=i:
         print(j,end=" ")
         j+=1
     print("")
