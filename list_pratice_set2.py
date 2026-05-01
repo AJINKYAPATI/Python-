@@ -1,5 +1,7 @@
 B = [13 , 7 , 12 , 10]
+
 # Write a program to multiply all the numbers in the list.
+
 mul = 1
 for i in (B):
     mul*=i
