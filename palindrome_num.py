@@ -10,5 +10,6 @@ while num>0:
 
     if temp==sum:
         print("It is a palindrome number")
+   
     else:
         print("It is not a palindrome number")
