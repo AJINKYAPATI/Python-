@@ -8,4 +8,5 @@ for i in s:
         l+=1
     elif i.isdigit():
         d+=1
+
 print("u :",u,"l:",l,"d:",d,"length:",len(s))
