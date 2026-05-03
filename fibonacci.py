@@ -1,6 +1,9 @@
 num=int(input("enter the terms :"))
+
 i=1
+
 ni,
+
 n2=0,1
 
 while i<=num:
