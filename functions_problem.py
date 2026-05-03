@@ -1,4 +1,5 @@
 # Write a function to find maximum of three numbers in Python.
+
 def maximum_num (val1,val2,val3):
     if val1 > val2 and val1>val3:
         print(val1,"is the maximum number")
