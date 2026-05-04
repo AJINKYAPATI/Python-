@@ -1,5 +1,7 @@
 num=int(input("enter a number :"))
+
 temp=num
+
 sum=0
 
 while num>0:
@@ -9,5 +11,6 @@ while num>0:
 
 if sum==temp:
     print("it is an armstrong number")
+
 else:
     print("it is not an armstrong number")
