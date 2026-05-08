@@ -1,6 +1,7 @@
 # Write a program to create an area calculator.
 
 print("Area calculator")
+
 while True:     
     print ("""press 1 to get the area of square
 press 2 to get the area of rectangle
