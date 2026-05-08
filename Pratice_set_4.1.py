@@ -1,8 +1,8 @@
 # Write a program to get Fibonacci series up to 10 numbers.
-
 a = 0
 b = 1
 n = int(input("enter a number here: "))
+
 if n == 1:
     print (1)
 else:
