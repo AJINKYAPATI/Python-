@@ -1,4 +1,5 @@
 # # write a program to create a building system at supermarket.
+
 while True:
     name = input("Enter customer name: ")
     total = 0
@@ -13,7 +14,8 @@ while True:
         repeat = input("Do you want to add more items? (yes/no): ").lower()
         if repeat == "no":
             break
- # Bill printing (outside inner loop)
+
+# Bill printing (outside inner loop)
     print("\n" + "-" * 40)
     print("Name:", name)
     print("Amount to be paid: ₹", total)
